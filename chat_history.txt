@@ -1,0 +1,11 @@
+Human: Where is my refund?
+AI: I'd be happy to help you track down your refund. To assist you further, could you please provide me with the following information?
+
+1. Your order number (if you have it)
+2. The date you placed the order
+3. The method of payment you used
+4. The reason for the refund (if you know)
+
+Additionally, could you please confirm the email address associated with your account, so I can access your order history and provide you with an update on the status of your refund?
+
+Once I have this information, I'll be happy to investigate further and provide you with a more detailed explanation of where your refund is.
