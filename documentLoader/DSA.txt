@@ -1,0 +1,65 @@
+# beginner 
+                                                    Beginner Level Problem Set
+            #1. Arrays & Basic Operations
+
+            ✅ Find the largest element in an array
+
+            ✅ Find the smallest element in an array
+
+            ✅ Reverse an array (in-place)
+
+            ✅ Rotate an array by k positions (left & right rotation)
+
+            ✅ Find the second largest element in an array
+
+            ✅ Check if an array is sorted or not
+
+            ✅ Merge two sorted arrays
+
+            ✅ Move all zeros to the end of the array
+
+            #2. Strings
+
+            ✅ Check if a string is a palindrome
+
+            ✅ Count vowels and consonants in a string
+
+            ✅ Reverse a string
+
+            ✅ Find the frequency of each character in a string
+
+            ✅ Check if two strings are anagrams
+
+            ✅ Remove duplicates from a string
+
+            #3. Searching & Sorting
+
+            ✅ Linear Search (find element in array)
+
+            ✅ Binary Search (sorted array only)
+
+            ✅ Sort an array using Bubble Sort
+
+            ✅ Sort an array using Selection Sort
+
+            ✅ Sort an array using Insertion Sort
+
+            ✅ Merge Sort (intro to recursion-based sorting)
+
+            4. Recursion (Basics)
+
+            ✅ Print numbers from 1 to N using recursion
+
+            ✅ Calculate factorial of N
+
+            ✅ Fibonacci series using recursion
+
+            ✅ Sum of digits of a number
+
+            ✅ Reverse a number using recursion
+
+            ✅ Check if a string is palindrome using recursion
+# intermediate level
+# Advanced level 
+
+
